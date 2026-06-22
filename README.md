@@ -27,11 +27,13 @@
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/1189-maximum-number-of-balloons) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Counting
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/1189-maximum-number-of-balloons) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -54,4 +56,8 @@
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0785-is-graph-bipartite) |
+## Stack
+|  |
+| ------- |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/3746-minimum-string-length-after-balanced-removals) |
 <!---LeetCode Topics End-->
