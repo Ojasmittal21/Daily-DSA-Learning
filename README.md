@@ -7,6 +7,7 @@
 | [0200-number-of-islands](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0200-number-of-islands) |
 | [1020-number-of-enclaves](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/1020-number-of-enclaves) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Two Pointers
@@ -64,4 +65,20 @@
 |  |
 | ------- |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/3746-minimum-string-length-after-balanced-removals) |
+## Math
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/2221-find-triangular-sum-of-an-array) |
+## Simulation
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/2221-find-triangular-sum-of-an-array) |
+## Combinatorics
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/2221-find-triangular-sum-of-an-array) |
+## Number Theory
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/2221-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
