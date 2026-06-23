@@ -8,6 +8,7 @@
 | [1020-number-of-enclaves](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/1020-number-of-enclaves) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## Two Pointers
@@ -19,6 +20,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0200-number-of-islands) |
 | [1020-number-of-enclaves](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/1020-number-of-enclaves) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## Hash Table
 |  |
@@ -95,4 +97,8 @@
 | ------- |
 | [0207-course-schedule](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0210-course-schedule-ii) |
+## Sorting
+|  |
+| ------- |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/2545-sort-the-students-by-their-kth-score) |
 <!---LeetCode Topics End-->
