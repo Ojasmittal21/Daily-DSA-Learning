@@ -6,6 +6,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0200-number-of-islands) |
 | [1020-number-of-enclaves](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/1020-number-of-enclaves) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/2545-sort-the-students-by-their-kth-score) |
@@ -100,5 +101,6 @@
 ## Sorting
 |  |
 | ------- |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/2545-sort-the-students-by-their-kth-score) |
 <!---LeetCode Topics End-->
