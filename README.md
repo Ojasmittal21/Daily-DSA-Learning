@@ -81,6 +81,7 @@
 |  |
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2485-find-the-pivot-integer](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/2485-find-the-pivot-integer) |
 ## Simulation
 |  |
 | ------- |
@@ -103,4 +104,8 @@
 | ------- |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/2545-sort-the-students-by-their-kth-score) |
+## Prefix Sum
+|  |
+| ------- |
+| [2485-find-the-pivot-integer](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/2485-find-the-pivot-integer) |
 <!---LeetCode Topics End-->
