@@ -55,6 +55,7 @@
 | [0207-course-schedule](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/1020-number-of-enclaves) |
 ## Breadth-First Search
 |  |
@@ -64,6 +65,7 @@
 | [0207-course-schedule](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/1020-number-of-enclaves) |
 ## Union-Find
 |  |
@@ -77,6 +79,7 @@
 | [0207-course-schedule](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0802-find-eventual-safe-states) |
 ## Stack
 |  |
 | ------- |
@@ -103,6 +106,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0802-find-eventual-safe-states) |
 ## Sorting
 |  |
 | ------- |
