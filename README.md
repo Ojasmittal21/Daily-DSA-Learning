@@ -35,6 +35,7 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0127-word-ladder) |
+| [0830-positions-of-large-groups](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0830-positions-of-large-groups) |
 | [1189-maximum-number-of-balloons](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/1189-maximum-number-of-balloons) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/2351-first-letter-to-appear-twice) |
