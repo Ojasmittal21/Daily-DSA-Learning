@@ -29,6 +29,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0127-word-ladder) |
 | [0705-design-hashset](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0706-design-hashmap) |
@@ -40,6 +41,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0127-word-ladder) |
 | [0830-positions-of-large-groups](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0830-positions-of-large-groups) |
 | [1189-maximum-number-of-balloons](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/1189-maximum-number-of-balloons) |
@@ -171,4 +173,8 @@
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
