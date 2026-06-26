@@ -7,6 +7,7 @@
 | [0200-number-of-islands](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0200-number-of-islands) |
 | [0705-design-hashset](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0706-design-hashmap) |
+| [0930-binary-subarrays-with-sum](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/1020-number-of-enclaves) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -37,6 +38,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0424-longest-repeating-character-replacement) |
 | [0705-design-hashset](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0706-design-hashmap) |
+| [0930-binary-subarrays-with-sum](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0930-binary-subarrays-with-sum) |
 | [1189-maximum-number-of-balloons](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/1189-maximum-number-of-balloons) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/2351-first-letter-to-appear-twice) |
@@ -131,6 +133,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2485-find-the-pivot-integer](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/2485-find-the-pivot-integer) |
@@ -187,6 +190,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0424-longest-repeating-character-replacement) |
+| [0930-binary-subarrays-with-sum](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
