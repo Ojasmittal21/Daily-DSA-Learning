@@ -46,6 +46,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/1248-count-number-of-nice-subarrays) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/2351-first-letter-to-appear-twice) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
@@ -60,6 +61,7 @@
 | [2053-kth-distinct-string-in-an-array](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/2351-first-letter-to-appear-twice) |
 | [2785-sort-vowels-in-a-string](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/2785-sort-vowels-in-a-string) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3813-vowel-consonant-score](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/3813-vowel-consonant-score) |
 | [3856-trim-trailing-vowels](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/3856-trim-trailing-vowels) |
@@ -70,6 +72,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/1189-maximum-number-of-balloons) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/2351-first-letter-to-appear-twice) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/3746-minimum-string-length-after-balanced-removals) |
