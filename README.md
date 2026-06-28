@@ -59,6 +59,7 @@
 | [2351-first-letter-to-appear-twice](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/2351-first-letter-to-appear-twice) |
 | [2785-sort-vowels-in-a-string](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/2785-sort-vowels-in-a-string) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/3746-minimum-string-length-after-balanced-removals) |
+| [3856-trim-trailing-vowels](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/3856-trim-trailing-vowels) |
 | [3931-check-adjacent-digit-differences](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/3931-check-adjacent-digit-differences) |
 ## Counting
 |  |
