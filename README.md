@@ -61,6 +61,7 @@
 | [2351-first-letter-to-appear-twice](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/2351-first-letter-to-appear-twice) |
 | [2785-sort-vowels-in-a-string](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/2785-sort-vowels-in-a-string) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/3746-minimum-string-length-after-balanced-removals) |
+| [3813-vowel-consonant-score](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/3813-vowel-consonant-score) |
 | [3856-trim-trailing-vowels](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/3856-trim-trailing-vowels) |
 | [3931-check-adjacent-digit-differences](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/3931-check-adjacent-digit-differences) |
 ## Counting
@@ -123,6 +124,7 @@
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/2553-separate-the-digits-in-an-array) |
+| [3813-vowel-consonant-score](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/3813-vowel-consonant-score) |
 ## Combinatorics
 |  |
 | ------- |
