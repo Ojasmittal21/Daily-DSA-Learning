@@ -24,6 +24,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0345-reverse-vowels-of-a-string) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## Matrix
 |  |
@@ -52,6 +53,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0127-word-ladder) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0345-reverse-vowels-of-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0424-longest-repeating-character-replacement) |
 | [0830-positions-of-large-groups](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0830-positions-of-large-groups) |
 | [1189-maximum-number-of-balloons](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/1189-maximum-number-of-balloons) |
