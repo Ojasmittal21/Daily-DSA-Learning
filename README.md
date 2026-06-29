@@ -38,6 +38,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0127-word-ladder) |
+| [0389-find-the-difference](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0424-longest-repeating-character-replacement) |
 | [0705-design-hashset](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0706-design-hashmap) |
@@ -55,6 +56,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0127-word-ladder) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0345-reverse-vowels-of-a-string) |
+| [0389-find-the-difference](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0424-longest-repeating-character-replacement) |
 | [0830-positions-of-large-groups](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0830-positions-of-large-groups) |
 | [1189-maximum-number-of-balloons](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/1189-maximum-number-of-balloons) |
@@ -145,6 +147,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0389-find-the-difference) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2785-sort-vowels-in-a-string](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/2785-sort-vowels-in-a-string) |
@@ -161,6 +164,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0389-find-the-difference) |
 | [2351-first-letter-to-appear-twice](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/2351-first-letter-to-appear-twice) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Linked List
