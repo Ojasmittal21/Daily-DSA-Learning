@@ -128,6 +128,7 @@
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0231-power-of-two) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/1248-count-number-of-nice-subarrays) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2485-find-the-pivot-integer](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/2485-find-the-pivot-integer) |
@@ -173,6 +174,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0389-find-the-difference) |
 | [2351-first-letter-to-appear-twice](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/2351-first-letter-to-appear-twice) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -205,6 +207,7 @@
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0025-reverse-nodes-in-k-group) |
+| [0231-power-of-two](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0231-power-of-two) |
 ## Divide and Conquer
 |  |
 | ------- |
