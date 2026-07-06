@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0455-assign-cookies) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## Matrix
@@ -67,6 +68,7 @@
 | [0127-word-ladder](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0127-word-ladder) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0678-valid-parenthesis-string) |
 | [0830-positions-of-large-groups](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0830-positions-of-large-groups) |
@@ -258,5 +260,6 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
