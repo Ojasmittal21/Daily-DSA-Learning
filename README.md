@@ -145,6 +145,7 @@
 | [2221-find-triangular-sum-of-an-array](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2485-find-the-pivot-integer](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/2485-find-the-pivot-integer) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3908-valid-digit-number](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/3908-valid-digit-number) |
 ## Simulation
 |  |
