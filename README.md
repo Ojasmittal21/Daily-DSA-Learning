@@ -9,6 +9,7 @@
 | [0455-assign-cookies](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0455-assign-cookies) |
 | [0705-design-hashset](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0706-design-hashmap) |
+| [0724-find-pivot-index](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0724-find-pivot-index) |
 | [0860-lemonade-change](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0860-lemonade-change) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0992-subarrays-with-k-different-integers) |
@@ -179,6 +180,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/1248-count-number-of-nice-subarrays) |
