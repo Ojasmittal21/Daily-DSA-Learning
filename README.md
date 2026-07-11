@@ -84,6 +84,7 @@
 | [2351-first-letter-to-appear-twice](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/2351-first-letter-to-appear-twice) |
 | [2785-sort-vowels-in-a-string](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/2785-sort-vowels-in-a-string) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3813-vowel-consonant-score](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/3813-vowel-consonant-score) |
@@ -147,6 +148,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2485-find-the-pivot-integer](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/2485-find-the-pivot-integer) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3908-valid-digit-number](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/3908-valid-digit-number) |
