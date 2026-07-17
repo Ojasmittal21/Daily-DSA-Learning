@@ -19,6 +19,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1331-rank-transform-of-an-array](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/1331-rank-transform-of-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
@@ -63,6 +64,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/2351-first-letter-to-appear-twice) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -181,6 +183,7 @@
 | [0389-find-the-difference](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0455-assign-cookies) |
 | [1331-rank-transform-of-an-array](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/1331-rank-transform-of-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2785-sort-vowels-in-a-string](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/2785-sort-vowels-in-a-string) |
@@ -281,4 +284,8 @@
 | [0053-maximum-subarray](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0053-maximum-subarray) |
 | [0392-is-subsequence](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0678-valid-parenthesis-string) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
