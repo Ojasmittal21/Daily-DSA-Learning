@@ -6,6 +6,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0053-maximum-subarray) |
 | [0200-number-of-islands](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0200-number-of-islands) |
+| [0283-move-zeroes](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0455-assign-cookies) |
 | [0705-design-hashset](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0706-design-hashmap) |
@@ -37,6 +38,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0455-assign-cookies) |
