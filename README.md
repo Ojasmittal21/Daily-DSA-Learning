@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0053-maximum-subarray) |
 | [0200-number-of-islands](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0283-move-zeroes) |
@@ -290,4 +291,8 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
