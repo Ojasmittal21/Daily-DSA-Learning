@@ -9,6 +9,7 @@
 | [0200-number-of-islands](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0455-assign-cookies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0628-maximum-product-of-three-numbers) |
 | [0705-design-hashset](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0724-find-pivot-index) |
@@ -152,6 +153,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0231-power-of-two) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0628-maximum-product-of-three-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -185,6 +187,7 @@
 | ------- |
 | [0389-find-the-difference](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0455-assign-cookies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
