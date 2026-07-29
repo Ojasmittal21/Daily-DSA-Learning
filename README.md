@@ -153,6 +153,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0007-reverse-integer) |
 | [0231-power-of-two](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0628-maximum-product-of-three-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/1248-count-number-of-nice-subarrays) |
