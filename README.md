@@ -38,6 +38,7 @@
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3731-find-missing-elements](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Two Pointers
 |  |
@@ -75,6 +76,7 @@
 | [2351-first-letter-to-appear-twice](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/2351-first-letter-to-appear-twice) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3731-find-missing-elements](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
 |  |
@@ -197,6 +199,7 @@
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2785-sort-vowels-in-a-string](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/2785-sort-vowels-in-a-string) |
+| [3731-find-missing-elements](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
 | ------- |
