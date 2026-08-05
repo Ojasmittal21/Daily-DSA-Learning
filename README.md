@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0053-maximum-subarray) |
 | [0200-number-of-islands](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0200-number-of-islands) |
@@ -305,6 +306,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0046-permutations) |
 ## Heap (Priority Queue)
 |  |
