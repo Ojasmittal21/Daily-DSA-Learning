@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0046-permutations) |
@@ -53,6 +54,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0037-sudoku-solver) |
 | [0200-number-of-islands](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0200-number-of-islands) |
 | [1020-number-of-enclaves](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/1020-number-of-enclaves) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/2545-sort-the-students-by-their-kth-score) |
@@ -61,6 +63,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0127-word-ladder) |
 | [0389-find-the-difference](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0389-find-the-difference) |
@@ -306,6 +309,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0046-permutations) |
@@ -317,5 +321,10 @@
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0051-n-queens) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
