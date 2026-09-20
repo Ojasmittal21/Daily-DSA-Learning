@@ -164,6 +164,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0007-reverse-integer) |
+| [0070-climbing-stairs](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0628-maximum-product-of-three-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/1248-count-number-of-nice-subarrays) |
@@ -304,6 +305,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0678-valid-parenthesis-string) |
 ## Counting Sort
@@ -331,4 +333,8 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0037-sudoku-solver) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
