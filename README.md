@@ -10,6 +10,7 @@
 | [0046-permutations](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0053-maximum-subarray) |
+| [0063-unique-paths-ii](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0063-unique-paths-ii) |
 | [0198-house-robber](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0283-move-zeroes) |
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0037-sudoku-solver) |
+| [0063-unique-paths-ii](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0063-unique-paths-ii) |
 | [0200-number-of-islands](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0200-number-of-islands) |
 | [1020-number-of-enclaves](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/1020-number-of-enclaves) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/2545-sort-the-students-by-their-kth-score) |
@@ -306,6 +308,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0053-maximum-subarray) |
+| [0063-unique-paths-ii](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0392-is-subsequence) |
