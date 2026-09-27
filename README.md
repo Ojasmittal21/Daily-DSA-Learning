@@ -11,6 +11,7 @@
 | [0051-n-queens](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0063-unique-paths-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0283-move-zeroes) |
@@ -310,6 +311,7 @@
 | [0053-maximum-subarray](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Ojasmittal21/Daily-DSA-Learning/tree/master/0678-valid-parenthesis-string) |
